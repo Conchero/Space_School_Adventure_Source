@@ -1,0 +1,6 @@
+Content/SpaceSchoolAdventure/Maps/Level_1_Rework.umap filter=lfs diff=lfs merge=lfs -text
+Content/SpaceSchoolAdventure/Maps/Tuto_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/SpaceSchoolAdventure/Maps/Level_1_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/SpaceSchoolAdventure/Maps/Hub_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/SpaceSchoolAdventure/Maps/Level_1_Rework.uasset filter=lfs diff=lfs merge=lfs -text
+Content/SpaceSchoolAdventure/Maps/Level_2_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

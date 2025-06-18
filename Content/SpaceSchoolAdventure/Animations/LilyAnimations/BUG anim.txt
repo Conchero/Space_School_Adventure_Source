@@ -1,0 +1,1 @@
+Quand le land se fini et qu'on reviens au BS walk et que la speed = 0, cela fait sauter l'anim  
